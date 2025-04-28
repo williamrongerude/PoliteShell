@@ -37,4 +37,10 @@ https://politeshell.onrender.com/
 
 ---
 
+## 🛠 Requirements 🛠
+
+- Must have Linux, Windows Subsystem for Linux, etc.
+
+---
+
 *Created by William Rongerude*
