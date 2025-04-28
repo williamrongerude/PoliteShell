@@ -1,3 +1,5 @@
+![](assets/use.png)
+
 # 😃 PoliteShell 😃
 
 A Linux/Bash style command line shell where you must say please.
