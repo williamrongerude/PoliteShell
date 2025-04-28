@@ -31,7 +31,7 @@ python politeshell.py
 
 ```
 
-or
+or instead play with the public server:
 
 https://politeshell.onrender.com/
 
