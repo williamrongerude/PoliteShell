@@ -1,4 +1,4 @@
-<img src="assets/use2.png" width="500">
+<img src="assets/use2.png" width="600">
 
 
 # 😃 PoliteShell 😃
