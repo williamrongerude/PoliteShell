@@ -6,9 +6,9 @@ Politeness is required before commands are executed. Rude requests are rejected 
 
 Run politeshell.py to use locally, where real Linux commands modify your own system.
 
-Or connect to the public server to see what others are doing:
+Or connect to the public server to see what others are modifying:
 
-https://williamrongerude.github.io/PoliteShell/
+https://politeshell.onrender.com/
 
 ---
 
@@ -30,7 +30,7 @@ python politeshell.py
 
 or
 
-https://williamrongerude.github.io/PoliteShell/
+https://politeshell.onrender.com/
 
 ---
 
