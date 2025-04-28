@@ -2,11 +2,11 @@
 
 A Linux/Bash style command line shell where you must say please.
 
-Politeness is required before commands are executed. Rude requests are rejected while courteous ones get system command execution.
+Rude requests are rejected while courteous ones get system command execution.
 
-Run politeshell.py to use locally, where real Linux commands modify your own system.
+Run politeshell.py for local usage, where real Linux commands modify your own system.
 
-Or connect to the public server to see what others are modifying:
+Or connect to the public server to see what others are changing:
 
 https://politeshell.onrender.com/
 
