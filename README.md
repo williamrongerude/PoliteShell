@@ -18,7 +18,7 @@ https://politeshell.onrender.com/
 ## 😐 Features 😐
 
 - Detects polite phrases automatically
-- Accepts commands like `please ls`, `could you mkdir folder` and more to be added
+- Accepts commands like `please ls`, `could you mkdir folder`, and many more.
 - Gives feedback based on your politeness level
 
 ---
