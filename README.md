@@ -31,7 +31,7 @@ python politeshell.py
 
 ```
 
-or instead play with the public server:
+or use the deployed server:
 
 https://politeshell.onrender.com/
 
