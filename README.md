@@ -1,4 +1,5 @@
-![](assets/use2.png)
+<img src="assets/use2.png" width="500">
+
 
 # 😃 PoliteShell 😃
 
