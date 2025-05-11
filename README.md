@@ -1,7 +1,7 @@
 <img src="assets/use2.png" width="600">
 
 
-# 😃 PoliteShell 😃
+# PoliteShell
 
 A Linux/Bash style command line shell where you must say please.
 
@@ -17,7 +17,7 @@ Inappropriate users will be banned.
 
 ---
 
-## 😐 Features 😐
+## Features
 
 - Detects polite phrases automatically
 - Accepts commands like `please ls`, `could you mkdir folder` and many more.
@@ -25,7 +25,7 @@ Inappropriate users will be banned.
 
 ---
 
-## 🛠 How to Run 🛠
+## How to Run 
 
 ```bash
 cd PoliteShell
@@ -39,7 +39,7 @@ https://politeshell.onrender.com/
 
 ---
 
-## 🛠 Requirements 🛠
+## Requirements
 
 - Must have Linux, Windows Subsystem for Linux, etc.
 
