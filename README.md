@@ -13,8 +13,6 @@ Or connect to the public server to see what others are changing:
 
 https://politeshell.onrender.com/
 
-Inappropriate users will be banned.
-
 ---
 
 ## Features
