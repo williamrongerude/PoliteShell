@@ -1,7 +1,7 @@
 <img src="assets/use2.png" width="600">
 
 
-# PoliteShell
+# Polite Shell
 
 This is a linux style command line shell where it only works when you say please.
 
