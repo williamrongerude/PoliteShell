@@ -5,11 +5,11 @@
 
 This is a linux style command line shell where it only works when you say please.
 
-Rude requests are rejected while nice ones can use system commands.
+It only works if you say "please" or if you're nice in general.
 
-Run politeshell.py for local usage, where real Linux commands modify your own system.
+Run politeshell.py for local usage, and you can use Linux commands to modify your computer system.
 
-Or connect to the public server to see what others are changing:
+There is also a public server hosting a linux subsystem that is refreshed every so often:
 
 https://politeshell.onrender.com/
 
