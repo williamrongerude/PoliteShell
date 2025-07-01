@@ -3,15 +3,17 @@
 
 # PoliteShell
 
-A Linux/Bash style command line shell where you must say please.
+This is a linux style command line shell where it only works when you say please.
 
-Rude requests are rejected while courteous ones get system command execution.
+Rude requests are rejected while nice ones can use system commands.
 
 Run politeshell.py for local usage, where real Linux commands modify your own system.
 
 Or connect to the public server to see what others are changing:
 
 https://politeshell.onrender.com/
+
+I made this this for an assignment in an elective in college.
 
 ---
 
